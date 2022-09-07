@@ -7,10 +7,11 @@
   
   body {
     display: flex;
+    flex-direction:column;
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #7e9eae;
+    background-color: white
   }
   
   div.card {
